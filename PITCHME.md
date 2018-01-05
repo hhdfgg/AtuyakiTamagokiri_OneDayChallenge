@@ -5,7 +5,7 @@
 
 ---
 ### 操作方法  
-２つの<font color="Red"<b>>ゲージ</b></font>を<font color="Red"><b>タイミング良くクリック！</b></font>  
+２つの<font color="Red"><b>ゲージ</b></font>を<font color="Red"><b>タイミング良くクリック！</b></font>  
 
 ---
 ### ゲーム説明  
