@@ -29,11 +29,15 @@
 ---
 ### 参考サイト
 [テラシュールブログのトランジション](http://tsubakit1.hateblo.jp/entry/2015/11/04/015355)
-- Fade Camera
-- マスク画像[For you](http://4you.bz/)
+ - Fade Camera  
+ - マスク画像[For you](http://4you.bz/)
+ 
 [テラシュールブログのパーティクルで紙ふぶきを散らす](http://tsubakit1.hateblo.jp/entry/2015/09/04/233000)
+
 [【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
-- [ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)
+
+ - [ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)
+ 
 [【Unity C#】関数を1回だけ呼ぶ方法](https://qiita.com/r-ngtm/items/fe27b49f4156bfbe2b9e)の3.UniRxを使う
 
 ---
