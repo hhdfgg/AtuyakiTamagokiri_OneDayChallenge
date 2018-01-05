@@ -2,4 +2,4 @@
 
 ---
 # 操作方法  
-２つの<font color="Red"><b>ゲージ</b></font>を<font color="Red"><b>タイミング良くクリック！</b></font>  
+２つの<b><font color="Red">ゲージ</font></b>を<font color="Red"><b>タイミング良くクリック！</b></font>  
