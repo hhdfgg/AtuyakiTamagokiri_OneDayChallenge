@@ -1,10 +1,10 @@
 ![GIF](/1515170556427.gif)
 
 ---
-<font color="Black">作製時間　約22時間</font>
+作製時間　約22時間
 
 ---
-### 操作方法  
+### <font color="Black">操作方法</font>
 ２つの<font color="Red"><b><u>ゲージ</u></b></font>を<font color="Red"><b><u>タイミング良くクリック！</u></b></font>  
 
 ---
