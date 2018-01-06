@@ -5,12 +5,12 @@
 
 ---
 ### 操作方法  
-２つの<font color="Red"><b>ゲージ</b></font>を<font color="Red"><b>タイミング良くクリック！</b></font>  
+２つの<font color="Red"><b><u>ゲージ</u></b></font>を<font color="Red"><b><u>タイミング良くクリック！</u></b></font>  
 
 ---
 ### ゲーム説明  
-２つのゲージで厚焼き玉子を切るスピードが変わる
-スコアは厚焼き玉子を何個切れたか
+２つの<font color="Yellow">ゲージ</font>で<u>厚焼き玉子を切る</u><font color="Orange">スピード</font>が変わる
+<font color="SlateBlue">スコア</font>は<u>厚焼き玉子</u>を<font color="SlateBlue">何個切れたか</font>
 
 ---
 ### 使用素材
@@ -29,8 +29,8 @@
 ---
 #### 参考サイト
 [テラシュールブログのトランジション](http://tsubakit1.hateblo.jp/entry/2015/11/04/015355)
- - Fade Camera  
- - マスク画像[For you](http://4you.bz/)
+- Fade Camera  
+- マスク画像[For you](http://4you.bz/)
  
 [テラシュールブログのパーティクルで紙ふぶきを散らす](http://tsubakit1.hateblo.jp/entry/2015/09/04/233000)
 
@@ -38,7 +38,7 @@
 
 [【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
 
- - [ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)
+- [ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)
  
 [【Unity C#】関数を1回だけ呼ぶ方法](https://qiita.com/r-ngtm/items/fe27b49f4156bfbe2b9e)の3.UniRxを使う
 
@@ -53,7 +53,7 @@
 ってことだと思います。
 
 ---
-### ほんの一部分だけ使ってみた<b><font color="Red">UniRx</font></b>
+### ほんの一部分だけ使ってみた<font color="Red"><u>UniRx</u></font>
 
 Update内で関数を1回だけ呼びたいと思って調べてみたら | 
 
