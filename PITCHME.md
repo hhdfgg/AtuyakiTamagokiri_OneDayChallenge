@@ -4,6 +4,8 @@
 作製時間　約22時間
 
 ---
+<div align="left">
+ 
 ### 操作方法  
 ２つの<font color="Red"><b><u>ゲージ</u></b></font>を<font color="Red"><b><u>タイミング良くクリック！</u></b></font>  
 
@@ -82,7 +84,7 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 ってことで、やってみたら、ちゃんと動作しました！
 
 でも、あまりよくわかっていない
-
+</div>
 ---
 ### 最後に
 
