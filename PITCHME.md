@@ -14,7 +14,7 @@
 
 ---
 
-<b>要するに、<font　size="20" color="Blue">瓦割</font>です</b>
+<b>要するに、<font size="20" color="Blue">瓦割</font>です</b>
 
 ---
 ### 使用素材
