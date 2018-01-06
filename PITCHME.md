@@ -12,7 +12,9 @@
 ２つの<font color="Yellow">ゲージ</font>で<u>厚焼き玉子を切る</u><font color="Orange">スピード</font>が変わる
 <font color="SlateBlue">スコア</font>は<u>厚焼き玉子</u>を<font color="SlateBlue">何個切れたか</font>
 
-要するに、瓦割です
+---
+
+<b>要するに、<font　size="20" color="Blue">瓦割です</b>
 
 ---
 ### 使用素材
