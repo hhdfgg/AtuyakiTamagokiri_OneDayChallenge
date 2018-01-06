@@ -8,6 +8,7 @@
 ２つの<font color="Red"><b><u>ゲージ</u></b></font>を<font color="Red"><b><u>タイミング良くクリック！</u></b></font>  
 
 ---
+
 <div align="left">
 
 ### ゲーム説明  
@@ -17,7 +18,9 @@
 要するに、瓦割です
 
 </div>
+
 ---
+
 <div align="left">
 
 ### 使用素材
@@ -29,6 +32,7 @@
 </div>
 
 ---
+
 <div align="left">
 
 #### BGM・効果音/フォント  
@@ -38,7 +42,9 @@
 - [源界明朝](https://www.flopdesign.com/blog/font/5146/)
 
 </div>
+
 ---
+
 <div align="left">
 
 #### 参考サイト
@@ -62,6 +68,7 @@
 </div>
 
 ---
+
 <div align="left">
 
 ### トランジション
@@ -72,7 +79,9 @@
 ざっくり言うと
 
 </div>
+
 ---
+
 <div align="left">
 
 <b><font color="Blue">Fade Cameraによって、白黒の画像をアルファチャンネルに変換してエフェクトをかけている</font></b>
@@ -80,7 +89,9 @@
 ってことだと思います。
 
 </div>
+
 ---
+
 <div align="left">
 
 <b>ほんの一部分だけ使ってみた<font size="15" color="Red"><u>UniRx</u></font></b>
@@ -88,7 +99,9 @@
 - Update内で関数を1回だけ呼びたいと思って調べてみたら  |
 
 </div>
+
 ---
+
 ```cs
 using UniRx;
 using UniRx.Triggers;
@@ -101,6 +114,7 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 ```
 
 ---
+
 <div align="left">
 
 このような書き方で動作するらしい！
@@ -110,6 +124,7 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 でも、あまりよくわかっていない
 
 </div>
+
 ---
 ### 最後に
 
