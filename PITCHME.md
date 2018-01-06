@@ -55,7 +55,8 @@
 ---
 ### ほんの一部分だけ使ってみた<font color="Red"><u>UniRx</u></font>
 
-Update内で関数を1回だけ呼びたいと思って調べてみたら| 
+
+Update内で関数を1回だけ呼びたいと思って調べてみたら 
 
 ---
 ```cs
@@ -66,13 +67,14 @@ using UniRx.Triggers;
 
 // Time.time > 1.5f の場合に１回だけHoge()を実行
 this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
+
 ```
 
 ---
 
 このような書き方で動作するらしい！
 
-ってことで、やってみたらちゃんと動作しました！
+ってことで、やってみたら、ちゃんと動作しました！
 
 ---
 
