@@ -8,7 +8,7 @@
 ２つの<font color="Red"><b><u>ゲージ</u></b></font>を<font color="Red"><b><u>タイミング良くクリック！</u></b></font>  
 
 ---
-### ゲーム説明  
+### <font color="Black">ゲーム説明</font>  
 ２つの<font color="Red">ゲージ</font>で<u>厚焼き玉子を切る</u><font color="Blue">スピード</font>が変わる
 <font color="SlateBlue">スコア</font>は<u>厚焼き玉子</u>を<font color="SlateBlue">何個切れたか</font>
 
@@ -17,7 +17,7 @@
 <b>要するに、<font size="20" color="Blue">瓦割</font>です</b>
 
 ---
-### 使用素材
+### <font color="Black">使用素材</font>  
 #### アセットストア
 - [Greatsword of Frozen Night](https://www.assetstore.unity3d.com/jp/#!/content/28991)
 - [TextMesh Pro](https://www.assetstore.unity3d.com/jp/#!/content/84126)  
@@ -31,7 +31,7 @@
 - [源界明朝](https://www.flopdesign.com/blog/font/5146/)
 
 ---
-#### 参考サイト
+#### <font color="Black">参考サイト</font>
 [テラシュールブログのトランジション](http://tsubakit1.hateblo.jp/entry/2015/11/04/015355)
 - Fade Camera  
 - マスク画像[For you](http://4you.bz/)
@@ -46,7 +46,7 @@
 [【Unity C#】関数を1回だけ呼ぶ方法](https://qiita.com/r-ngtm/items/fe27b49f4156bfbe2b9e)のUniRx
 
 ---
-### トランジション
+### <font color="Black">トランジション<font>
 #### (フェードイン、フェードアウト、ワイプ、オーバーラップなど切り替え効果のこと)
 
 この記事は2015年11月4日でちょっと古く、少し設定が違うのですが、
@@ -84,7 +84,7 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 でも、あまりよくわかっていない
 
 ---
-### 最後に
+### <font color="Black">最後に</font>
 
 ---
 
