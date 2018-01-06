@@ -53,9 +53,7 @@
 ってことだと思います。
 
 ---
-### ほんの一部分だけ使ってみた
-<b><font color="Red"><u>UniRx</u></font></b>
-
+<b>ほんの一部分だけ使ってみた<b><font color="Red"><u>UniRx</u></font></b></b>
 
 Update内で関数を1回だけ呼びたいと思って調べてみたら 
 
