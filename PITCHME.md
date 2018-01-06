@@ -9,12 +9,12 @@
 
 ---
 ### <font color="Black">ゲーム説明</font>  
-２つの<font color="Red">ゲージ</font>で<u>厚焼き玉子を切る</u><font color="Blue">スピード</font>が変わる
-<font color="SlateBlue">スコア</font>は<u>厚焼き玉子</u>を<font color="SlateBlue">何個切れたか</font>
+２つの<font color="Red">ゲージ</font>で厚焼き玉子を切る<font color="Blue">スピード</font>が変わる
+<font color="SlateBlue">スコア</font>は厚焼き玉子を<font color="SlateBlue">何個切れたか</font>
 
 ---
 
-<b>要するに、<font size="20" color="Blue">瓦割</font>です</b>
+<b>要するに、<font size="20" color="Blue"><u>瓦割</u></font>です</b>
 
 ---
 ### <font color="Black">使用素材</font>  
