@@ -59,7 +59,7 @@
 ってことだと思います。
 
 ---
-<b>ほんの一部分だけ使ってみた<font size="5" color="Red"><u>UniRx</u></font></b>
+<b>ほんの一部分だけ使ってみた<font size="15" color="Red"><u>UniRx</u></font></b>
 
 - Update内で関数を1回だけ呼びたいと思って調べてみたら  |
 
