@@ -94,4 +94,4 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 
 ---
 でも、実感はしたけど満足はしていないので、まだまだ努力していきたいと思いました。
-</font>
+</div>
