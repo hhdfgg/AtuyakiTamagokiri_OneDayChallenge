@@ -87,9 +87,11 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 ### <font color="Black">最後に</font>
 
 ---
+<div align="left">
 夏休みよりも確実に成長できているなと実感しました！
 
 分からないことの調べ方だったり、アセット使い方だったり、
 
 ---
 でも、実感はしたけど満足はしていないので、まだまだ努力していきたいと思いました。
+</font>
