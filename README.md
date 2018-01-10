@@ -11,7 +11,7 @@ SettingsのOptionsでGitHub Pagesをmaster branch /docs folderにしてSava
 
 その後、Theme ChooserのChange themeを設定？変更？して
 
-URL　https://アカウント名.github.io/リポジトリ名/
+URL "https://アカウント名.github.io/リポジトリ名/"
 
 でOK
 
