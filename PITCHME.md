@@ -13,6 +13,13 @@
 <font color="SlateBlue">スコア</font>は厚焼き玉子を<font color="SlateBlue">何個斬れたか</font>
 
 ---
+[厚焼き！玉子斬りッッッ(GitHubPages)](https://hhdfgg.github.io/AtuyakiTamagokiri_OneDayChallenge/)
+https://hhdfgg.github.io/AtuyakiTamagokiri_OneDayChallenge/
+
+[厚焼き！玉子斬りッッッ(unityroom)](https://unityroom.com/games/atuyaki_oneday)
+https://unityroom.com/games/atuyaki_oneday
+
+---
 
 <b>要するに、<font size="20" color="Blue"><u>瓦割</u></font>です</b>
 
