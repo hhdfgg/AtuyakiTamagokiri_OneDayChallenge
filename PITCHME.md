@@ -28,7 +28,7 @@
 - [HURT-RECORD](http://www.hurtrecord.com/)  
 - [効果音ラボ](https://soundeffect-lab.info/)  
 - [フリー効果音素材 くらげ工匠](http://www.kurage-kosho.info/)  
-- [源界明朝](https://www.flopdesign.com/blog/font/5146/)
+- 源界明朝
 
 ---
 #### <font color="Black">参考サイト</font>
