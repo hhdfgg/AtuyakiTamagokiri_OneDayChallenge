@@ -9,7 +9,7 @@
 
 ---
 ### <font color="Black">ゲーム説明</font>  
-２つの<font color="Red">ゲージ</font>で厚焼き玉子を切る<font color="Blue">スピード</font>が変わる
+２つの<font color="Red">ゲージ</font>で厚焼き玉子を斬る<font color="Blue">スピード</font>が変わる
 <font color="SlateBlue">スコア</font>は厚焼き玉子を<font color="SlateBlue">何個斬れたか</font>
 
 ---
