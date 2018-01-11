@@ -91,7 +91,7 @@ this.UpdateAsObservable().First(x => Time.time > 1.5f).Subscribe(x => Hoge());
 
 ってことで、やってみたら、ちゃんと動作しました！
 
-でも、あまりよくわかっていない
+でも、あまりよくわかっていないですが、調べてどんどん使っていきたい
 
 ---
 ### <font color="Black">最後に</font>
