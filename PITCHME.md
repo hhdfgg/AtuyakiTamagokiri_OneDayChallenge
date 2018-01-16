@@ -51,7 +51,7 @@ https://unityroom.com/games/atuyaki_oneday
 ---
 [【Unity、WebGL】なるべく簡単にオンラインランキング機能をつけるサンプル](http://blog.naichilab.com/entry/webgl-simple-ranking)
 
-- [ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)(NCMB)
+- [ニフクラ mobile backend](http://mb.cloud.nifty.com/doc/current/introduction/quickstart_unity.html)(NCMB・ニフティクラウド)
  
 [【Unity C#】関数を1回だけ呼ぶ方法](https://qiita.com/r-ngtm/items/fe27b49f4156bfbe2b9e)のUniRx
 
