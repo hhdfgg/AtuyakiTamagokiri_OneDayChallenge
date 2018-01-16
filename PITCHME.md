@@ -66,7 +66,7 @@ https://unityroom.com/games/atuyaki_oneday
 ざっくり言うと、たぶん
 
 ---
-<b><font color="Blue">Fade Cameraによって、白黒の画像をアルファチャンネルに変換してエフェクトをかけている</font></b>
+<b><font color="Blue">Fade Cameraによって、白黒の画像をアルファチャンネルとして扱いエフェクトをかけている</font></b>
 
 ってことだと思います。
 
